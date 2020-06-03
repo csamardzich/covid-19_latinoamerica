@@ -2082,3 +2082,12 @@ caso,sexo,edad,pais,municipio,provincia,fecha_confirmacion,fecha_ingreso,tipo_co
 ,hombre,54.0,cu,La Lisa,La Habana,2020/05/31,,secundario
 ,hombre,37.0,cu,La Lisa,La Habana,2020/05/31,,secundario
 ,hombre,35.0,cu,Matanzas,Matanzas,2020/05/31,,desconocido
+,mujer,65.0,cu,Cerro,La Habana,2020/06/01,,secundario
+,hombre,63.0,cu,Cerro,La Habana,2020/06/01,,secundario
+,mujer,48.0,cu,Cerro,La Habana,2020/06/01,,secundario
+,mujer,18.0,cu,Cerro,La Habana,2020/06/01,,secundario
+,mujer,20.0,cu,La Lisa,La Habana,2020/06/01,,secundario
+,mujer,37.0,cu,La Lisa,La Habana,2020/06/01,,secundario
+,mujer,54.0,cu,Cerro,La Habana,2020/06/01,,secundario
+,hombre,54.0,cu,Arroyo Naranjo,La Habana,2020/06/01,,secundario
+,mujer,64.0,cu,Cotorro,La Habana,2020/06/01,,desconocido
