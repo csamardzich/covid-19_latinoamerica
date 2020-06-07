@@ -2172,3 +2172,21 @@ caso,sexo,edad,pais,municipio,provincia,fecha_confirmacion,fecha_ingreso,tipo_co
 ,hombre,67.0,cu,Santiago de Cuba,Santiago de Cuba,2020/06/05,,primario
 ,hombre,30.0,cu,Guantánamo,Guantánamo,2020/06/05,,primario
 ,hombre,55.0,cu,Guantánamo,Guantánamo,2020/06/05,,primario
+,mujer,78.0,cu,Cotorro,La Habana,2020/06/06,,secundario
+,mujer,43.0,cu,Regla,La Habana,2020/06/06,,secundario
+,mujer,49.0,cu,Playa,La Habana,2020/06/06,,secundario
+,mujer,17.0,cu,Centro Habana,La Habana,2020/06/06,,secundario
+,mujer,67.0,cu,La Lisa,La Habana,2020/06/06,,secundario
+,hombre,36.0,cu,La Lisa,La Habana,2020/06/06,,secundario
+,hombre,36.0,cu,La Lisa,La Habana,2020/06/06,,secundario
+,hombre,53.0,cu,La Lisa,La Habana,2020/06/06,,secundario
+,mujer,54.0,cu,Cerro,La Habana,2020/06/06,,secundario
+,mujer,60.0,cu,La Habana Vieja,La Habana,2020/06/06,,secundario
+,mujer,68.0,cu,La Habana Vieja,La Habana,2020/06/06,,secundario
+,mujer,63.0,cu,La Habana Vieja,La Habana,2020/06/06,,secundario
+,mujer,48.0,cu,Arroyo Naranjo,La Habana,2020/06/06,,secundario
+,hombre,24.0,cu,Marianao,La Habana,2020/06/06,,secundario
+,hombre,15.0,cu,Plaza de la Revolución,La Habana,2020/06/06,,desconocido
+,mujer,18.0,cu,Marianao,La Habana,2020/06/06,,secundario
+,mujer,61.0,cu,Marianao,La Habana,2020/06/06,,secundario
+,hombre,54.0,cu,Marianao,La Habana,2020/06/06,,secundario
