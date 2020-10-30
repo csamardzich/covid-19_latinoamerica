@@ -6726,3 +6726,77 @@ caso,sexo,edad,pais,municipio,provincia,fecha_confirmacion,fecha_ingreso,tipo_co
 ,hombre,23,cu,Ciego de Ávila,Ciego de Ávila,2020/10/27,,secundario
 ,hombre,25,cu,Ciego de Ávila,Ciego de Ávila,2020/10/27,,secundario
 ,mujer,50,cu,Campechuela,Granma,2020/10/27,,secundario
+,hombre,11,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,hombre,7,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,56,cu,Sandino,Pinar del Río,2020/10/28,,desconocido
+,hombre,48,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,hombre,55,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,hombre,93,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,mujer,62,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,hombre,19,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,hombre,13,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,mujer,39,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,hombre,42,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,hombrre,65,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,61,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,55,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,68,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,65,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,48,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,47,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,53,cu,Pinar del Río,Pinar del Río,2020/10/28,,secundario
+,hombre,33,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,hombre,19,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,hombre,35,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,mujer,13,cu,Consolación del Sur,Pinar del Río,2020/10/28,,secundario
+,hombre,30,cu,Matanzas,Matanzas,2020/10/28,,secundario
+,hombre,30,ve,,Matanzas,2020/10/28,,primario
+,hombre,38,ve,,Matanzas,2020/10/28,,primario
+,hombre,54,ve,,Matanzas,2020/10/28,,primario
+,hombre,33,ve,,Matanzas,2020/10/28,,primario
+,hombre,25,ve,,Matanzas,2020/10/28,,primario
+,hombre,46,ve,,Matanzas,2020/10/28,,primario
+,hombre,27,ve,,Matanzas,2020/10/28,,primario
+,mujer,32,ve,,Matanzas,2020/10/28,,primario
+,mujer,77,cu,Sancti Spíritus,Sancti Spíritus,2020/10/28,,secundario
+,mujer,34,cu,Sancti Spíritus,Sancti Spíritus,2020/10/28,,secundario
+,hombre,51,cu,Sancti Spíritus,Sancti Spíritus,2020/10/28,,secundario
+,hombre,35,cu,Sancti Spíritus,Sancti Spíritus,2020/10/28,,secundario
+,mujer,67,cu,Ciro Redondo,Ciego de Ávila,2020/10/28,,secundario
+,hombre,47,cu,Ciro Redondo,Ciego de Ávila,2020/10/28,,secundario
+,mujer,45,cu,Ciro Redondo,Ciego de Ávila,2020/10/28,,secundario
+,mujer,55,cu,Sandino,Pinar del Río,2020/10/29,,secundario
+,hombre,38,cu,Guane,Pinar del Río,2020/10/29,,secundario
+,hombre,43,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,28,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,48,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,26,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,32,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,26,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,35,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,29,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,22,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,26,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,33,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,27,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,26,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,61,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,35,cu,Consolación del Sur,Pinar del Río,2020/10/29,,secundario
+,hombre,56,cu,Consolación del Sur,Pinar del Río,2020/10/29,,secundario
+,mujer,18,cu,Consolación del Sur,Pinar del Río,2020/10/29,,secundario
+,hombre,12,cu,Consolación del Sur,Pinar del Río,2020/10/29,,secundario
+,mujer,12,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,17,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,hombre,16,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,mujer,57,cu,Pinar del Río,Pinar del Río,2020/10/29,,secundario
+,mujer,42,cu,Consolación del Sur,Pinar del Río,2020/10/29,,secundario
+,hombre,45,cu,Consolación del Sur,Pinar del Río,2020/10/29,,secundario
+,hombre,34,cu,Caimito,Artemisa,2020/10/29,,secundario
+,mujer,14,cu,Centro Habana,La Habana,2020/10/29,,secundario
+,mujer,42,cu,Centro Habana,La Habana,2020/10/29,,secundario
+,hombre,4,cu,Sancti Spíritus,Sancti Spíritus,2020/10/29,,secundario
+,mujer,50,cu,Sancti Spíritus,Sancti Spíritus,2020/10/29,,secundario
+,mujer,22,cu,Sancti Spíritus,Sancti Spíritus,2020/10/29,,secundario
+,mujer,2,cu,Sancti Spíritus,Sancti Spíritus,2020/10/29,,secundario
+,mujer,5,cu,Sancti Spíritus,Sancti Spíritus,2020/10/29,,secundario
+,mujer,45,cu,Vertientes,Camagüey,2020/10/29,,primario
